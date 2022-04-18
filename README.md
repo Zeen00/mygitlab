@@ -1,5 +1,6 @@
 # mygitlab
 <h1> welcome to my project </h1>
+</hr>
 
 features are as follows
  <L1> f1 </L1>
