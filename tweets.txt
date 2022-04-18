@@ -1,0 +1,7 @@
+tweets :-
+hi
+hello
+how are you
+this tweet is to tell about current affair
+hello world
+kya hai
